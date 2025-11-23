@@ -3,11 +3,13 @@
   
 
   <div> <br/></div>
-
+      <img src="https://camo.githubusercontent.com/2727609d8bfde9ba1a95be1449eb878bfafa4d76789ba05661857e2c8ac70fa1/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" alt="Open Source Community Projects" >
+      
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
-  [![Telegram Chat](https://img.shields.io/badge/chat-on%20Telegram-blue.svg?style=flat-square)](https://t.me/OpenSource_Chat)
+  [![Join to community](https://img.shields.io/badge/chat-on%20Telegram-blue.svg?style=flat-square)](https://t.me/OpenSource_Chat)
 
+    
   A curated collection of awesome open source projects created by our community members. 
   Join us to share your projects, contribute, and collaborate with fellow developers!
 </div>
