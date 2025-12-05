@@ -382,43 +382,7 @@ Want to add your project to our collection? Follow these steps:
 - **Maintainer**: [Your Telegram/GitHub]
 ```
 
-## 💬 Join Our Community
-
-Connect with us on Telegram for discussions, help, and collaboration:
-
-[![Join our Telegram](https://img.shields.io/badge/chat-on%20Telegram-blue.svg?style=flat-square)](https://t.me/OpenSource_Chat)
-
-Our community is structured with different topics for better organization:
-- **Base** - For beginners and general questions
-- **Project Showcase** - Share your projects
-- **Issues Board** - Find tasks to contribute to
-- **Project Reviews** - Get feedback on your projects
-- **Main Chat** - General tech discussions
-- **Off-topic** - Casual conversations
-
-## 🙏 Credits
-
-This README was inspired by [awesome-macOS-apps](https://github.com/serhii-londar/awesome-mac-os-apps) and follows the [awesome](https://github.com/sindresorhus/awesome) list guidelines.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-3. Create a Pull Request with the following format:
-   ```markdown
-   ### [Project Name](https://github.com/yourusername/yourproject)
-   - **Description**: Brief description of your project
-   - **Tech Stack**: Main technologies used
-   - **Category**: Web/Mobile/Game/AI/Utility
-   ```
-
-
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
-## 🙏 Acknowledgments
-
-- All the amazing contributors who share their work
-- The open source community for continuous inspiration
