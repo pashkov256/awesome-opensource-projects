@@ -34,6 +34,10 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 ---
 
+## 📝 Add your project
+
+<a href="CONTRIBUTING.md">Check contributing guide</a>
+
 ## Project Categories
 
 <h3 id="terminal-cli"></h3>
@@ -588,41 +592,8 @@ We welcome contributions from everyone! Here's how you can get involved:
 3. **Report Issues**: Found a bug or have a suggestion? Open an issue!
 4. **Spread the Word**: Star the repository and share it with others.
 
-## 📝 Add Your Project
 
-Want to add your project to our collection? Follow these steps:
 
-1. Fork this repository
-2. Create a new JSON file in the appropriate category directory under `projects/`
-3. Follow the project template below
-4. Submit a Pull Request
-
-### Project Template
-
-```json
-{
-  "name": "Project Name",
-  "url": "https://github.com/username/project",
-  "description": "Brief description of your project",
-  "tech_stack": ["Technology 1", "Technology 2"],
-  "status": "Active/In Development/On Hold",
-  "contribution": "Open for contributors/Looking for maintainers",
-  "maintainer": "@githubusername",
-  "languages": ["Language 1", "Language 2"],
-  "links": {
-    "GitHub": "https://github.com/username/project",
-    "Documentation": "https://project-docs.example.com",
-    "Community Chat": "https://t.me/yourcommunity"
-  },
-  "stats": {
-    "stars": "username/project",
-    "license": "username/project",
-    "last_commit": "username/project",
-    "coverage": "https://codecov.io/gh/username/project"
-  },
-  "image": "https://example.com/screenshot.png"
-}
-```
 
 ## 📄 License
 
