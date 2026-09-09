@@ -5,14 +5,14 @@
   
   <p>
     <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://awesome.re/badge.svg" /></a>
-    <img src="https://img.shields.io/badge/Total%20Projects-16-blue" alt="Total Projects"/>
-    <img src="https://img.shields.io/badge/Categories-10-green" alt="Categories"/>
+    <img src="https://img.shields.io/badge/Total%20Projects-17-blue" alt="Total Projects"/>
+    <img src="https://img.shields.io/badge/Categories-11-green" alt="Categories"/>
   </p>
   
   <p>
     <a href="https://t.me/OpenSource_Chat"><img src="https://img.shields.io/badge/chat-on%20Telegram-blue.svg" alt="Telegram Channel"></a>
     <a href="https://github.com/OpenSourceDevsHub/awesome-opensource-projects/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OpenSourceDevsHub/awesome-opensource-projects?style=flat-square"></a>
-    <img src="https://img.shields.io/badge/Last%20Updated-December 07, 2025-orange" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Last%20Updated-September 09, 2026-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -31,6 +31,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 - [Testing](#testing)
 - [Text Processing & Analysis](#text-processing)
 - [Vpn](#vpn)
+- [Games](#games)
 
 ---
 
@@ -344,7 +345,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
   <p>
 
 
-  **Tech Stack**: C++, GAS, CMake
+  **Tech Stack**: C++, CMake
 
 
   **Status**: Archived
@@ -571,6 +572,47 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 
   ![GitHub stars](https://img.shields.io/github/stars/batchar2/fptn?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/batchar2/fptn?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/batchar2/fptn?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/batchar2/fptn?style=flat-square&cacheSeconds=3600)
+
+
+  </p>
+
+  </details>
+
+
+</details>
+
+<hr />
+
+<h3 id="games"></h3>
+
+<details open>
+
+<summary><span style="font-size: 1.4em; font-weight: 600;">🎮 Games</span></summary>
+
+
+- **[Onyx Launcher](https://github.com/lonestill/onyx-launcher)** - Modern open-source Minecraft launcher with built-in runtime telemetry, Modrinth integration, and crash diagnostics
+
+
+  <details>
+
+  <summary>Show details</summary>
+
+  <p>
+
+
+  **Tech Stack**: TypeScript, Electron, React, Node.js
+
+
+  **Status**: Active
+
+
+  **Contribution**: Open for contributors
+
+
+  **Links**: [Website](https://lonestill.github.io) | [GitHub](https://github.com/lonestill/onyx-launcher) | [Issues](https://github.com/lonestill/onyx-launcher/issues)
+
+
+  ![GitHub stars](https://img.shields.io/github/stars/lonestill/onyx-launcher?style=flat-square&logo=github&label=Stars&cacheSeconds=3600) ![GitHub license](https://img.shields.io/github/license/lonestill/onyx-launcher?style=flat-square&cacheSeconds=86400) ![GitHub last commit](https://img.shields.io/github/last-commit/lonestill/onyx-launcher?style=flat-square&cacheSeconds=3600) ![GitHub issues](https://img.shields.io/github/issues-raw/lonestill/onyx-launcher?style=flat-square&cacheSeconds=3600)
 
 
   </p>

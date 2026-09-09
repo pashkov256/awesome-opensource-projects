@@ -1,0 +1,15 @@
+{
+  "name": "Onyx Launcher",
+  "url": "https://github.com/lonestill/onyx-launcher",
+  "description": "Modern open-source Minecraft launcher with built-in runtime telemetry, Modrinth integration, and crash diagnostics",
+  "tech_stack": ["TypeScript", "Electron", "React", "Node.js"],
+  "status": "Active",
+  "contribution": "Open for contributors",
+  "maintainer": "@lonestill",
+  "languages": ["TypeScript"],
+  "links": {
+    "Website": "https://lonestill.github.io",
+    "GitHub": "https://github.com/lonestill/onyx-launcher",
+    "Issues": "https://github.com/lonestill/onyx-launcher/issues"
+  }
+}
